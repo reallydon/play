@@ -1,0 +1,180 @@
+Uri: https://reallyworld.ru/
+File Name: c:\Downloaded Web Sites\reallyworld.ru\index.htm
+Content Type: text/html
+
+Uri: https://reallyworld.ru/description
+File Name: c:\Downloaded Web Sites\reallyworld.ru\description.html
+Content Type: text/html
+
+Uri: https://reallyworld.ru/public_offer.pdf
+File Name: c:\Downloaded Web Sites\reallyworld.ru\public_offer.pdf
+Content Type: application/pdf
+
+Uri: https://reallyworld.ru/pymentMethods
+File Name: c:\Downloaded Web Sites\reallyworld.ru\pymentMethods.html
+Content Type: text/html
+
+Uri: https://reallyworld.ru/css/app.css
+File Name: c:\Downloaded Web Sites\reallyworld.ru\css\app.css
+Content Type: text/css
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot?b01516c1808be557667befec76cd6318
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2?4a74738e7728e93c4394b8604081da62
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff?3c6879c4f342203d099bdd66dce6d396
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf?49f00693b0e5d45097832ef5ea1bc541
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-regular-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg?3602b7e8b2cb1462b0bef9738757ef8a
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot?8ac3167427b1d5d2967646bd8f7a0587
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2?8e1ed89b6ccb8ce41faf5cb672677105
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff?4451e1d86df7491dd874f2c41eee1053
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf?205f07b3883c484f27f40d21a92950d4
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-solid-900-1.bin
+Content Type: application/octet-stream
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg?664de3932dd6291b4b8a8c0ddbcb4c61
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot?e2ca6541bff3a3e9f4799ee327b28c58
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2?f075c50f89795e4cdb4d45b51f1a6800
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff?ad527cc5ec23d6da66e8a1d6772ea6d3
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf?8300bd7f30e0a313c1d772b49d96cb8e
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-brands-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://reallyworld.ru/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg?2f12242375edd68e9013ecfb59c672e9
+File Name: c:\Downloaded Web Sites\reallyworld.ru\fonts\vendor\@fortawesome\fontawesome-free\webfa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://reallyworld.ru/css/public.css
+File Name: c:\Downloaded Web Sites\reallyworld.ru\css\public.css
+Content Type: text/css
+
+Uri: https://reallyworld.ru/images/top.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\images\top.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/images/server-icon.svg
+File Name: c:\Downloaded Web Sites\reallyworld.ru\images\server-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://reallyworld.ru/images/bottom.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\images\bottom.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/paymaster.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\paymaster.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-mastercard.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-mastercard.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-visa.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-visa.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-mir.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-mir.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-sbp.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-sbp.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-alfa-bank.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-alfa-bank.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-vtb.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-vtb.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-brs.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-brs.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-psb.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-psb.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-applepay.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-applepay.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-qiwi.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-qiwi.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-iomoney.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-iomoney.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-webmoney.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-webmoney.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-mts.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-mts.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-megafon.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-megafon.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-beeline.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-beeline.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-tele2.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-tele2.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/payment-systems/logo-svyaznoy.png
+File Name: c:\Downloaded Web Sites\reallyworld.ru\payment-systems\logo-svyaznoy.png
+Content Type: image/png
+
+Uri: https://reallyworld.ru/js/app.js?1
+File Name: c:\Downloaded Web Sites\reallyworld.ru\js\app.js
+Content Type: application/javascript
+
+Uri: https://reallyworld.ru/js/public.js
+File Name: c:\Downloaded Web Sites\reallyworld.ru\js\public.js
+Content Type: application/javascript
+
+Uri: https://reallyworld.ru/js/clipboard.min.js
+File Name: c:\Downloaded Web Sites\reallyworld.ru\js\clipboard.min.js
+Content Type: application/javascript
+
